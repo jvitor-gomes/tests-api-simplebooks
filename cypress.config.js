@@ -18,5 +18,7 @@ module.exports = defineConfig({
     json: true,
     timestamp: 'mmddyyyy_HHMMss'
   },
-  defaultCommandTimeout: 45000
+  defaultCommandTimeout: 45000,
+  viewportWidth: 1920,
+  viewportHeight: 1080
 });
